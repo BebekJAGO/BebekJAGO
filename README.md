@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BebekJAGO aka Eunice Cristine
-- 👀 I’m interested in data science and web development
+- 👀 I’m interested Automation Testing
 - 📫 How to reach me : cristine.eunice@gmail.com
 
 <!---
